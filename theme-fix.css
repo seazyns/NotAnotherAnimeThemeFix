@@ -154,15 +154,15 @@
     background-color: initial
 }
 
-.auto-Ge5KZx::-webkit-scrollbar-track {
+.auto-2K3UW5::-webkit-scrollbar-track {
     background-color: initial
 }
 
-.auto-Ge5KZx::-webkit-scrollbar-thumb {
+.auto-2K3UW5::-webkit-scrollbar-thumb {
     background-color: var(--scrollbar-color)
 }
 
-.embedFull-2tM8-- {
+.embedFull-1HGV2S {
     border-left: 4px solid var(--main-theme-color);
     background: var(--embed-background-transparency)
 }
@@ -389,13 +389,13 @@
     color: var(--member-listing-role-color)
 }
 
-.thin-1ybCId::-webkit-scrollbar-track {
+.thin-31rlnD::-webkit-scrollbar-track {
     border-color: transparent;
     background-color: initial;
     border: transparent
 }
 
-.thin-1ybCId::-webkit-scrollbar-thumb {
+.thin-31rlnD::-webkit-scrollbar-thumb {
     background-color: var(--scrollbar-color)
 }
 
@@ -426,7 +426,7 @@
     color: hsla(0, 0%, 100%, .8)
 }
 
-.textarea-2r0oV8:focus {
+.textarea-_59yqs:focus {
     background-color: rgba(0, 0, 0, .4)
 }
 
@@ -478,15 +478,15 @@
     background-color: initial
 }
 
-.item-26Dhrx {
+.item-2idW98 {
     background-color: initial
 }
 
-.item-26Dhrx[aria-checked=true] {
+.item-2idW98[aria-checked=true] {
     background-color: rgba(200, 200, 200, .1)
 }
 
-.attachment-33OFj0 {
+.attachment-1PZZB2 {
     border-color: transparent;
     background-color: rgba(0, 0, 0, .6)
 }
@@ -563,11 +563,11 @@
     fill: var(--unread-message-divider-color)
 }
 
-.newMessagesBar-265mhP {
+.newMessagesBar-1hF-9G {
     background-color: var(--new-messages-bar-background-color)
 }
 
-.newMessagesBar-265mhP button {
+.newMessagesBar-1hF-9G button {
     color: var(--new-messages-bar-font-color)
 }
 
